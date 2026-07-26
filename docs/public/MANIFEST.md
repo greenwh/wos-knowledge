@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-07-26 13:01:14 UTC
-**Last commit:** `52d9f44`
+**Last updated:** 2026-07-26 13:06:13 UTC
+**Last commit:** `970461b`
 
 ## Deployed Pages
 
@@ -284,6 +284,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+970461b Merge branch 'main' of github.com:greenwh/wos-knowledge
+c30cf46 Remove rank system section from New Member Orientation
+3fa5075 chore: regenerate MANIFEST.md [skip manifest]
 52d9f44 Merge remote main and regenerate MANIFEST.md
 36dbdfe Rebrand from SOA Battle Book to Ivory Reign Knowledge Book
 5bed09d chore: regenerate MANIFEST.md [skip manifest]
@@ -291,7 +294,4 @@ a036ab2 Fix charm leveling strategy: exchange unlocks at one charm L11, not all 
 65a3ba0 chore: regenerate MANIFEST.md [skip manifest]
 b05b535 Add Power Priority, Research, and Chief Charms to Strategy Hub page
 094217d chore: regenerate MANIFEST.md [skip manifest]
-cb7d89c Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
-e9aa015 Update CLAUDE.md directory structure: add roster + server-timeline
-cff5065 chore: regenerate MANIFEST.md [skip manifest]
 ```
