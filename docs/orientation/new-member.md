@@ -1,6 +1,6 @@
 ---
 title: New Member Orientation
-description: Welcome to the alliance — what to know, what to do, and how ranks work.
+description: Welcome to the alliance — what to know and what to do.
 ---
 
 # New Member Orientation
@@ -10,28 +10,6 @@ description: Welcome to the alliance — what to know, what to do, and how ranks
 **Welcome!** We're glad you're here. This alliance welcomes everyone — hardcore grinders, casual players, and everyone in between. We encourage participation in alliance events, but there's no minimum spend and no pressure. Play at your pace, show up when you can, and have fun.
 
 </Callout>
-
-## How Our Ranks Work
-
-We use a simple tier system so leadership can recognize who's active and participating. Your rank is **not** a judgment — it's a tracking tool that helps us plan events and keep the roster healthy.
-
-| Rank | What It Means |
-|---|---|
-| **R5 / R4** | Officers — alliance leadership |
-| **R3 — Engaged** | Active member who has participated in at least one qualifying event |
-| **R2 — Casual** | Active member, no event participation yet |
-| **R1** | New member (starting rank) |
-
-**How to earn R3:** Participate in any one of these alliance events:
-
-- [Alliance Championship](/events/alliance-championship) (AC)
-- [Foundry Battle](/events/foundry-battle) (FB)
-- [Sunfire Castle](/events/sunfire-castle) (SFC)
-- [Bear Trap](/events/bear-trap) (BT)
-
-That's it — one event, any event. You don't need to be the strongest player or score the most points. Showing up is what counts.
-
-**Staying active:** Members inactive for 2+ weeks may be removed to make room for active players. If you need to take a break, let an officer know and we'll hold your spot.
 
 ## Your First Week
 
@@ -74,4 +52,4 @@ Ask in alliance chat — every R5 and R4 will help. The Battle Book is supplemen
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*
