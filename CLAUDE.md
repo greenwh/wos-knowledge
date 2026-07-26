@@ -1,6 +1,6 @@
 # Battle Book — Claude Code Guide
 
-VitePress static site. Whiteout Survival game reference for Seeds of Anarchy. Live at **https://greenwh.github.io/soa-battle-book/**. Content is Markdown; auto-deploys to GitHub Pages via GitHub Actions on every push to `main`.
+VitePress static site. Whiteout Survival game reference for Ivory Reign. Live at **https://greenwh.github.io/wos-knowledge/**. Content is Markdown; auto-deploys to GitHub Pages via GitHub Actions on every push to `main`.
 
 ---
 
@@ -104,9 +104,9 @@ Use `collapsed: true` for groups that should start folded (Daybreak Island uses 
 ## URL and path rules
 
 - `cleanUrls: true` — `docs/combat/garrison-swap.md` becomes `/combat/garrison-swap` (no `.html`)
-- `base: '/soa-battle-book/'` — VitePress prefixes links automatically when you use Markdown-style links (`[text](/path/to/page)`). Never hardcode `/soa-battle-book/` in link hrefs.
+- `base: '/wos-knowledge/'` — VitePress prefixes links automatically when you use Markdown-style links (`[text](/path/to/page)`). Never hardcode `/wos-knowledge/` in link hrefs.
 - `index.md` in a folder becomes the folder URL: `docs/combat/index.md` → `/combat/`
-- **cleanUrls strips `.md` from all markdown links** — including links to static files in `docs/public/`. A link like `[text](/MANIFEST.md)` becomes `href="/soa-battle-book/MANIFEST"` (404). To link to a static `.md` file, use its full external URL: `[text](https://greenwh.github.io/soa-battle-book/MANIFEST.md)`.
+- **cleanUrls strips `.md` from all markdown links** — including links to static files in `docs/public/`. A link like `[text](/MANIFEST.md)` becomes `href="/wos-knowledge/MANIFEST"` (404). To link to a static `.md` file, use its full external URL: `[text](https://greenwh.github.io/wos-knowledge/MANIFEST.md)`.
 
 ---
 
@@ -308,7 +308,7 @@ bash scripts/generate-manifest.sh
 git add docs/public/MANIFEST.md
 ```
 
-MANIFEST.md lives at `docs/public/MANIFEST.md` and is served as a static asset at `https://greenwh.github.io/soa-battle-book/MANIFEST.md`. It is the sync mechanism between chat Claude and Claude Code — chat Claude fetches it at the start of any Battle Book session to know what's actually deployed.
+MANIFEST.md lives at `docs/public/MANIFEST.md` and is served as a static asset at `https://greenwh.github.io/wos-knowledge/MANIFEST.md`. It is the sync mechanism between chat Claude and Claude Code — chat Claude fetches it at the start of any Battle Book session to know what's actually deployed.
 
 GHA auto-regenerates it on every push to `main` that touches `docs/`. Manual regeneration before committing is only needed when you want to verify the output locally. See MAINTENANCE.md for details.
 

@@ -3,11 +3,11 @@
 This file is the **single source of truth** for what's deployed on the Battle Book.
 It is regenerated automatically by GitHub Actions on every push to main that touches `docs/`.
 
-Published at: `https://greenwh.github.io/soa-battle-book/MANIFEST.md`
-Source at: `https://raw.githubusercontent.com/greenwh/soa-battle-book/main/docs/public/MANIFEST.md`
+Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
+Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-27 16:41:39 UTC
-**Last commit:** `b05b535`
+**Last updated:** 2026-07-26 12:57:48 UTC
+**Last commit:** `a036ab2`
 
 ## Deployed Pages
 
@@ -252,7 +252,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/soa-battle-book/main/docs/
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/greenwh/soa-battle-book' },
+      { icon: 'github', link: 'https://github.com/greenwh/wos-knowledge' },
     ],
 
     search: {
@@ -263,12 +263,12 @@ Source at: `https://raw.githubusercontent.com/greenwh/soa-battle-book/main/docs/
     },
 
     editLink: {
-      pattern: 'https://github.com/greenwh/soa-battle-book/edit/main/docs/:path',
+      pattern: 'https://github.com/greenwh/wos-knowledge/edit/main/docs/:path',
       text: 'Suggest an edit on GitHub',
     },
 
     footer: {
-      message: 'SOA Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
+      message: 'Ivory Reign Knowledge Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
       copyright: 'Built with VitePress · Hosted on GitHub Pages',
     },
 
@@ -284,6 +284,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/soa-battle-book/main/docs/
 ## Recent Deployment History
 
 ```
+a036ab2 Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
+65a3ba0 chore: regenerate MANIFEST.md [skip manifest]
 b05b535 Add Power Priority, Research, and Chief Charms to Strategy Hub page
 094217d chore: regenerate MANIFEST.md [skip manifest]
 cb7d89c Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
@@ -292,6 +294,4 @@ cff5065 chore: regenerate MANIFEST.md [skip manifest]
 00d34a4 Add Server Timeline (reference) + Hero Roster (strategy/heroes) pages, sidebar + hub links
 265c8bb chore: regenerate MANIFEST.md [skip manifest]
 848eb53 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
-9063ea4 fix: regenerate all PNGs with SOA phoenix wings icon [skip manifest]
-c5f5fbf fix: remove Bear Trap time from orientation (subject to change) [skip manifest]
 ```

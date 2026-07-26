@@ -1,8 +1,8 @@
-# SOA Battle Book
+# Ivory Reign Knowledge Book
 
-A reference website for Whiteout Survival players. Live at **https://greenwh.github.io/soa-battle-book/**
+A reference website for Whiteout Survival players. Live at **https://greenwh.github.io/wos-knowledge/**
 
-Maintained by Seeds of Anarchy. Public access — anyone can read, link, or share.
+Maintained by Ivory Reign. Public access — anyone can read, link, or share.
 
 ---
 
@@ -28,7 +28,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, phase-by-
 
 - **VitePress 1.x** — static site generator, Markdown-based authoring
 - **Vue 3** — custom components embedded in Markdown pages
-- **GitHub Pages** — hosting at `greenwh.github.io/soa-battle-book`
+- **GitHub Pages** — hosting at `greenwh.github.io/wos-knowledge`
 - **GitHub Actions** — auto-deploy on every push to `main`
 
 ---
@@ -103,13 +103,13 @@ See `MAINTENANCE.md` for full workflow detail, including the quarterly verificat
 
 ## Contributing
 
-Found an error or want a new guide? [Open an issue](https://github.com/greenwh/soa-battle-book/issues) or send a pull request.
+Found an error or want a new guide? [Open an issue](https://github.com/greenwh/wos-knowledge/issues) or send a pull request.
 
 ---
 
 ## Credits
 
-Content authored by Seeds of Anarchy members with research and writing assistance from Claude. Sources cross-referenced against community guides at wostools.net, whiteoutsurvival.wiki, allclash.com, OneChilledGamer, and BlueStacks, plus official Helpshift documentation.
+Content authored by Ivory Reign members with research and writing assistance from Claude. Sources cross-referenced against community guides at wostools.net, whiteoutsurvival.wiki, allclash.com, OneChilledGamer, and BlueStacks, plus official Helpshift documentation.
 
 The game is owned by Century Games. This is an independent fan reference site — not affiliated with the developers.
 

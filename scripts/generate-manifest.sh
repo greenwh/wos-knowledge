@@ -4,7 +4,7 @@
 # Run from repo root.
 #
 # The output file is served by VitePress as a static asset at:
-#   https://greenwh.github.io/soa-battle-book/MANIFEST.md
+#   https://greenwh.github.io/wos-knowledge/MANIFEST.md
 #
 # This file is the single source of truth for deployed state. It is
 # regenerated automatically by GitHub Actions (.github/workflows/update-manifest.yml)
@@ -22,8 +22,8 @@ cat > "$MANIFEST_PATH" << 'EOF_TOP'
 This file is the **single source of truth** for what's deployed on the Battle Book.
 It is regenerated automatically by GitHub Actions on every push to main that touches `docs/`.
 
-Published at: `https://greenwh.github.io/soa-battle-book/MANIFEST.md`
-Source at: `https://raw.githubusercontent.com/greenwh/soa-battle-book/main/docs/public/MANIFEST.md`
+Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
+Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
 EOF_TOP
 

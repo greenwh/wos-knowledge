@@ -22,7 +22,7 @@ Claude produces a single Markdown (`.md`) file with verified content following t
 
 ### Step 2: Save the file
 
-Save Claude's Markdown output to the correct path in your local clone of the `soa-battle-book` repo. Path conventions:
+Save Claude's Markdown output to the correct path in your local clone of the `wos-knowledge` repo. Path conventions:
 
 | Content type | Folder |
 |---|---|
@@ -152,7 +152,7 @@ git add MANIFEST.md
 This file is what chat Claude reads at the start of any Battle Book session to know what's actually deployed. If MANIFEST.md is stale, chat Claude will plan against the wrong state and we'll end up with the kind of drift we saw in May 2026 (changelog claimed pages existed that didn't).
 
 **For chat Claude (you reading this):** at the start of any Battle Book work, fetch:
-https://raw.githubusercontent.com/greenwh/soa-battle-book/main/MANIFEST.md
+https://raw.githubusercontent.com/greenwh/wos-knowledge/main/MANIFEST.md
 
 That's the truth. The live site rendering can lag deployment by 2-3 minutes; the changelog can be aspirational; the project knowledge in chat is a snapshot. Only MANIFEST is the source of truth.
 
@@ -193,7 +193,7 @@ VitePress search rebuilds the index on each build. After a deploy, hard-refresh 
 
 ### Page looks fine locally but breaks on live site
 
-Most often: `base: '/soa-battle-book/'` in `config.ts` means absolute links need the `/soa-battle-book/` prefix on the live site. If you write `[link](/some/page)`, VitePress correctly prefixes it. But hardcoded absolute URLs (`<a href="/some/page">`) won't get prefixed. Use relative or VitePress-style links.
+Most often: `base: '/wos-knowledge/'` in `config.ts` means absolute links need the `/wos-knowledge/` prefix on the live site. If you write `[link](/some/page)`, VitePress correctly prefixes it. But hardcoded absolute URLs (`<a href="/some/page">`) won't get prefixed. Use relative or VitePress-style links.
 
 ## Backup
 

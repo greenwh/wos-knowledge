@@ -1,15 +1,15 @@
 ---
-title: SOA Battle Book
-description: Whiteout Survival reference for Seeds of Anarchy — events, heroes, combat, and strategy.
+title: Ivory Reign Knowledge Book
+description: Whiteout Survival reference for Ivory Reign — events, heroes, combat, and strategy.
 layout: home
 
 hero:
-  name: Seeds of Anarchy
-  text: Battle Book
+  name: Ivory Reign
+  text: Knowledge Book
   tagline: A reference manual for Whiteout Survival players. Events, heroes, combat, and strategy — verified, mobile-first, and updated.
   image:
-    src: /IMG_0383.JPG
-    alt: Seeds of Anarchy — SOA alliance banner
+    src: /ivr.jpg
+    alt: Ivory Reign — a gothic ivory castle beneath purple banners
   actions:
     - theme: brand
       text: Browse Events
@@ -58,7 +58,7 @@ features:
 
 ## What this is
 
-A reference site for active Whiteout Survival players, built and maintained by Seeds of Anarchy (SOA). Public access — anyone can read, link, or share.
+A reference site for active Whiteout Survival players, built and maintained by Ivory Reign (IVR). Public access — anyone can read, link, or share.
 
 Every page follows the same structure: at-a-glance summary, mechanics, day-by-day or phase-by-phase breakdown, common mistakes, quick reference card. Find what you need, do the thing, get back to the game.
 
@@ -66,7 +66,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 - **Not a recruitment site.** No alliance promotion, no faction politics.
 - **Not a news site.** Patches and meta shifts get baked into the relevant guides; we don't run a news feed.
-- **Not authoritative.** This is a community reference. The game updates frequently — when something looks wrong, [open an issue on GitHub](https://github.com/greenwh/soa-battle-book/issues).
+- **Not authoritative.** This is a community reference. The game updates frequently — when something looks wrong, [open an issue on GitHub](https://github.com/greenwh/wos-knowledge/issues).
 
 ## Recently updated
 
@@ -79,6 +79,6 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 - **SvS Prep Checklist** — interactive day-by-day to-do list
 - **Troop Ratios Reference** — verified compositions for every activity
 - **Combat Section — Reports & Garrison Defense** — new pages on reading scout reports, decoding battle reports (including the Bonus Source mechanic), pattern-based adjustment after losses, and the garrison captain trio question
-- **Site Manifest** — see [MANIFEST.md](https://greenwh.github.io/soa-battle-book/MANIFEST.md) for the complete deployed-pages listing, auto-regenerated on every commit
+- **Site Manifest** — see [MANIFEST.md](https://greenwh.github.io/wos-knowledge/MANIFEST.md) for the complete deployed-pages listing, auto-regenerated on every commit
 
 See the [changelog](/reference/changelog) for the full update history.

@@ -1,38 +1,38 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'SOA Battle Book',
-  description: 'Whiteout Survival reference for Seeds of Anarchy — events, heroes, combat, and strategy.',
-  base: '/soa-battle-book/',
+  title: 'Ivory Reign Knowledge Book',
+  description: 'Whiteout Survival reference for Ivory Reign — events, heroes, combat, and strategy.',
+  base: '/wos-knowledge/',
   lastUpdated: true,
   cleanUrls: true,
   appearance: 'dark',
   ignoreDeadLinks: ['/MANIFEST.md', '/MANIFEST'],
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/soa-battle-book/icons/favicon.svg' }],
-    ['link', { rel: 'manifest', href: '/soa-battle-book/manifest.webmanifest' }],
-    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/soa-battle-book/icons/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/wos-knowledge/icons/favicon.png' }],
+    ['link', { rel: 'manifest', href: '/wos-knowledge/manifest.webmanifest' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/wos-knowledge/icons/apple-touch-icon.png' }],
     ['meta', { name: 'theme-color', content: '#0d0f14' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'SOA Battle Book' }],
+    ['meta', { property: 'og:title', content: 'Ivory Reign Knowledge Book' }],
     ['meta', { property: 'og:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
-    ['meta', { property: 'og:url', content: 'https://greenwh.github.io/soa-battle-book/' }],
-    ['meta', { property: 'og:image', content: 'https://greenwh.github.io/soa-battle-book/og-image.png' }],
+    ['meta', { property: 'og:url', content: 'https://greenwh.github.io/wos-knowledge/' }],
+    ['meta', { property: 'og:image', content: 'https://greenwh.github.io/wos-knowledge/og-image.png' }],
     ['meta', { property: 'og:image:type', content: 'image/png' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
-    ['meta', { property: 'og:image:alt', content: 'SOA Battle Book — Whiteout Survival reference for Seeds of Anarchy' }],
+    ['meta', { property: 'og:image:alt', content: 'Ivory Reign Knowledge Book — Whiteout Survival reference for Ivory Reign' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'SOA Battle Book' }],
+    ['meta', { name: 'twitter:title', content: 'Ivory Reign Knowledge Book' }],
     ['meta', { name: 'twitter:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
-    ['meta', { name: 'twitter:image', content: 'https://greenwh.github.io/soa-battle-book/og-image.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://greenwh.github.io/wos-knowledge/og-image.png' }],
   ],
 
   themeConfig: {
-    logo: { src: '/icons/logo.svg', alt: 'Battle Book' },
-    siteTitle: 'Battle Book',
+    logo: { src: '/banner.png', alt: 'Ivory Reign' },
+    siteTitle: 'Knowledge Book',
 
     nav: [
       { text: 'Home', link: '/' },
@@ -191,7 +191,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/greenwh/soa-battle-book' },
+      { icon: 'github', link: 'https://github.com/greenwh/wos-knowledge' },
     ],
 
     search: {
@@ -202,12 +202,12 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/greenwh/soa-battle-book/edit/main/docs/:path',
+      pattern: 'https://github.com/greenwh/wos-knowledge/edit/main/docs/:path',
       text: 'Suggest an edit on GitHub',
     },
 
     footer: {
-      message: 'SOA Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
+      message: 'Ivory Reign Knowledge Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
       copyright: 'Built with VitePress · Hosted on GitHub Pages',
     },
 

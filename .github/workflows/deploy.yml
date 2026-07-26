@@ -1,4 +1,4 @@
-name: Deploy SOA Battle Book to GitHub Pages
+name: Deploy Ivory Reign Knowledge Book to GitHub Pages
 
 on:
   push:

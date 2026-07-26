@@ -8,6 +8,15 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## July 2026
+
+### Rebrand — Ivory Reign Knowledge Book
+
+- Site renamed from **SOA Battle Book** to **Ivory Reign Knowledge Book**; new URL at `greenwh.github.io/wos-knowledge`.
+- Landing image, favicon, and all app/PWA icons replaced with Ivory Reign banner artwork.
+- Color scheme changed from the phoenix orange/amber theme to a purple/lavender and ivory palette.
+- Content is unchanged — this was a branding-only update.
+
 ## June 2026
 
 ### Power Strategy Section
@@ -256,4 +265,4 @@ This section will be updated as new content lands. Planned additions in rough pr
 
 ---
 
-*See an error or want a guide written? Open an issue on [GitHub](https://github.com/greenwh/soa-battle-book/issues).*
+*See an error or want a guide written? Open an issue on [GitHub](https://github.com/greenwh/wos-knowledge/issues).*

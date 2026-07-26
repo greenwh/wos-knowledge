@@ -165,4 +165,4 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 ## More Coming
 
-This glossary will expand as new terms come up. If you encounter a term you don't recognize and it's not here, ask in alliance chat or open an issue on [GitHub](https://github.com/greenwh/soa-battle-book/issues).
+This glossary will expand as new terms come up. If you encounter a term you don't recognize and it's not here, ask in alliance chat or open an issue on [GitHub](https://github.com/greenwh/wos-knowledge/issues).
