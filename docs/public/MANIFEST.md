@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-07-26 12:57:48 UTC
-**Last commit:** `a036ab2`
+**Last updated:** 2026-07-26 13:00:56 UTC
+**Last commit:** `36dbdfe`
 
 ## Deployed Pages
 
@@ -284,6 +284,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+36dbdfe Rebrand from SOA Battle Book to Ivory Reign Knowledge Book
 a036ab2 Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
 65a3ba0 chore: regenerate MANIFEST.md [skip manifest]
 b05b535 Add Power Priority, Research, and Chief Charms to Strategy Hub page
@@ -293,5 +294,4 @@ e9aa015 Update CLAUDE.md directory structure: add roster + server-timeline
 cff5065 chore: regenerate MANIFEST.md [skip manifest]
 00d34a4 Add Server Timeline (reference) + Hero Roster (strategy/heroes) pages, sidebar + hub links
 265c8bb chore: regenerate MANIFEST.md [skip manifest]
-848eb53 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
 ```
