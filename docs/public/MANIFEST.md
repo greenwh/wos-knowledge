@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-07-26 13:06:13 UTC
-**Last commit:** `970461b`
+**Last updated:** 2026-08-07 20:33:10 UTC
+**Last commit:** `f08ce8a`
 
 ## Deployed Pages
 
@@ -284,6 +284,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Design table
+475bd5a chore: regenerate MANIFEST.md [skip manifest]
 970461b Merge branch 'main' of github.com:greenwh/wos-knowledge
 c30cf46 Remove rank system section from New Member Orientation
 3fa5075 chore: regenerate MANIFEST.md [skip manifest]
@@ -292,6 +294,4 @@ c30cf46 Remove rank system section from New Member Orientation
 5bed09d chore: regenerate MANIFEST.md [skip manifest]
 a036ab2 Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
 65a3ba0 chore: regenerate MANIFEST.md [skip manifest]
-b05b535 Add Power Priority, Research, and Chief Charms to Strategy Hub page
-094217d chore: regenerate MANIFEST.md [skip manifest]
 ```
