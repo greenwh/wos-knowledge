@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-07 20:33:10 UTC
-**Last commit:** `f08ce8a`
+**Last updated:** 2026-08-19 20:54:46 UTC
+**Last commit:** `8cf55c8`
 
 ## Deployed Pages
 
@@ -42,6 +42,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 - `/events/sunfire-castle` — sunfire-castle.md
 - `/events/svs/overview` — overview.md
 - `/events/svs/prep-checklist` — prep-checklist.md
+- `/events/winter-siege` — winter-siege.md
 
 ### `/orientation/`
 
@@ -130,6 +131,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
             { text: 'Mercenary Prestige', link: '/events/mercenary-prestige' },
             { text: 'Snowbusters', link: '/events/snowbusters' },
             { text: 'Sunfire Castle Battle', link: '/events/sunfire-castle' },
+            { text: 'Winter Siege', link: '/events/winter-siege' },
           ],
         },
       ],
@@ -284,6 +286,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+8cf55c8 Add Winter Siege event guide
+97d25fe chore: regenerate MANIFEST.md [skip manifest]
 f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Design table
 475bd5a chore: regenerate MANIFEST.md [skip manifest]
 970461b Merge branch 'main' of github.com:greenwh/wos-knowledge
@@ -292,6 +296,4 @@ c30cf46 Remove rank system section from New Member Orientation
 52d9f44 Merge remote main and regenerate MANIFEST.md
 36dbdfe Rebrand from SOA Battle Book to Ivory Reign Knowledge Book
 5bed09d chore: regenerate MANIFEST.md [skip manifest]
-a036ab2 Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
-65a3ba0 chore: regenerate MANIFEST.md [skip manifest]
 ```
