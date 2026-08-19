@@ -1,59 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="og-title">
-  <title id="og-title">Ivory Reign Knowledge Book — Whiteout Survival Reference</title>
+  <title id="og-title">Waldo and Wilma's Knowledge Book — Whiteout Survival Reference</title>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d0f14"/>
-      <stop offset="100%" stop-color="#1a1f2b"/>
+      <stop offset="0%" stop-color="#16100e"/>
+      <stop offset="100%" stop-color="#34180f"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#c14fd9"/>
-      <stop offset="100%" stop-color="#7c2a8f"/>
+      <stop offset="0%" stop-color="#e0602c"/>
+      <stop offset="100%" stop-color="#d8232a"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#c14fd9" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#c14fd9" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#d2602a" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#d2602a" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <!-- canvas -->
   <rect width="1200" height="630" fill="url(#bg)"/>
 
-  <!-- ambient glow -->
-  <ellipse cx="980" cy="320" rx="380" ry="280" fill="url(#glow)"/>
+  <!-- ambient glow, right side where the mascots sit -->
+  <ellipse cx="1030" cy="390" rx="420" ry="320" fill="url(#glow)"/>
 
-  <!-- decorative spires (right side, echoing the ivory castle) -->
-  <g opacity="0.20" stroke="#c14fd9" stroke-width="2" fill="none">
-    <path d="M 940,500 L 940,220 L 960,170 L 980,220 L 980,500"/>
-    <path d="M 1010,500 L 1010,180 L 1035,120 L 1060,180 L 1060,500"/>
-    <path d="M 1090,500 L 1090,240 L 1110,190 L 1130,240 L 1130,500"/>
+  <!-- decorative candy-stripe accent (echoing Waldo's sweater), bottom-right, low opacity -->
+  <g opacity="0.14" stroke="#ffffff" stroke-width="14" fill="none">
+    <path d="M 900,700 L 1300,300"/>
+    <path d="M 960,700 L 1300,360"/>
+  </g>
+  <g opacity="0.14" stroke="#d8232a" stroke-width="14" fill="none">
+    <path d="M 930,700 L 1300,330"/>
+    <path d="M 990,700 L 1300,390"/>
   </g>
 
   <!-- top-left brand bar -->
   <rect x="80" y="80" width="60" height="6" fill="url(#accent)" rx="3"/>
-  <text x="80" y="130" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#c14fd9" letter-spacing="6">
+  <text x="80" y="118" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#e0782c" letter-spacing="6">
     KNOWLEDGE BOOK
   </text>
 
   <!-- title -->
-  <text x="80" y="280" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#ece0c4" letter-spacing="-2">
-    Ivory Reign
+  <text x="78" y="236" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#f0dec2" letter-spacing="-1">
+    Waldo and Wilma's
   </text>
-  <text x="80" y="380" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#c14fd9" letter-spacing="-2">
+  <text x="78" y="312" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#d8232a" letter-spacing="-1">
     Knowledge Book
   </text>
 
   <!-- tagline -->
-  <text x="80" y="450" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#a8b3c7">
+  <text x="80" y="368" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="26" fill="#c4b2a6">
     Whiteout Survival reference — events, heroes,
   </text>
-  <text x="80" y="490" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#a8b3c7">
+  <text x="80" y="402" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="26" fill="#c4b2a6">
     combat, and strategy.
   </text>
 
   <!-- url ribbon -->
-  <rect x="80" y="540" width="440" height="40" fill="#1f2533" stroke="#2c3344" rx="6"/>
-  <text x="100" y="566" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#c14fd9">
+  <rect x="80" y="450" width="440" height="40" fill="#1e1410" stroke="#3a2818" rx="6"/>
+  <text x="100" y="476" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#e0782c">
     greenwh.github.io/wos-knowledge
   </text>
 </svg>

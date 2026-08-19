@@ -1,12 +1,12 @@
 {
-  "name": "Ivory Reign Knowledge Book",
+  "name": "Waldo and Wilma's Knowledge Book",
   "short_name": "Knowledge Book",
   "description": "Whiteout Survival reference for Ivory Reign — events, heroes, combat, and strategy.",
   "start_url": "/wos-knowledge/",
   "scope": "/wos-knowledge/",
   "display": "standalone",
-  "background_color": "#0d0f14",
-  "theme_color": "#0d0f14",
+  "background_color": "#170f0d",
+  "theme_color": "#170f0d",
   "icons": [
     {
       "src": "/wos-knowledge/icons/pwa-192.png",

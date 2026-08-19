@@ -1,15 +1,15 @@
 ---
-title: Ivory Reign Knowledge Book
+title: Waldo and Wilma's Knowledge Book
 description: Whiteout Survival reference for Ivory Reign — events, heroes, combat, and strategy.
 layout: home
 
 hero:
-  name: Ivory Reign
+  name: Waldo and Wilma's
   text: Knowledge Book
   tagline: A reference manual for Whiteout Survival players. Events, heroes, combat, and strategy — verified, mobile-first, and updated.
   image:
-    src: /ivr.jpg
-    alt: Ivory Reign — a gothic ivory castle beneath purple banners
+    src: /hero.jpg
+    alt: Waldo and Wilma, the site's mascots
   actions:
     - theme: brand
       text: Browse Events
