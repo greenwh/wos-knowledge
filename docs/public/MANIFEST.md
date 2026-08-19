@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-19 20:54:46 UTC
-**Last commit:** `8cf55c8`
+**Last updated:** 2026-08-19 21:59:29 UTC
+**Last commit:** `13cdaa0`
 
 ## Deployed Pages
 
@@ -270,7 +270,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
     },
 
     footer: {
-      message: 'Ivory Reign Knowledge Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
+      message: "Waldo and Wilma's Knowledge Book · Whiteout Survival reference · Best information available — verify against in-game changes.",
       copyright: 'Built with VitePress · Hosted on GitHub Pages',
     },
 
@@ -286,6 +286,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+13cdaa0 Rebrand site to Waldo and Wilma's Knowledge Book
+db2fdc3 chore: regenerate MANIFEST.md [skip manifest]
 8cf55c8 Add Winter Siege event guide
 97d25fe chore: regenerate MANIFEST.md [skip manifest]
 f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Design table
@@ -294,6 +296,4 @@ f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Desi
 c30cf46 Remove rank system section from New Member Orientation
 3fa5075 chore: regenerate MANIFEST.md [skip manifest]
 52d9f44 Merge remote main and regenerate MANIFEST.md
-36dbdfe Rebrand from SOA Battle Book to Ivory Reign Knowledge Book
-5bed09d chore: regenerate MANIFEST.md [skip manifest]
 ```
