@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-28 21:51:28 UTC
-**Last commit:** `668e606`
+**Last updated:** 2026-08-28 21:51:39 UTC
+**Last commit:** `ca779a5`
 
 ## Deployed Pages
 
@@ -285,12 +285,12 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 
     lastUpdatedText: 'Last updated',
   },
-})
 ```
 
 ## Recent Deployment History
 
 ```
+ca779a5 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
 668e606 chore: regenerate MANIFEST.md [skip manifest]
 13cdaa0 Rebrand site to Waldo and Wilma's Knowledge Book
 db2fdc3 chore: regenerate MANIFEST.md [skip manifest]
@@ -300,5 +300,4 @@ f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Desi
 475bd5a chore: regenerate MANIFEST.md [skip manifest]
 970461b Merge branch 'main' of github.com:greenwh/wos-knowledge
 c30cf46 Remove rank system section from New Member Orientation
-3fa5075 chore: regenerate MANIFEST.md [skip manifest]
 ```
