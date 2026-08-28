@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-19 21:59:29 UTC
-**Last commit:** `13cdaa0`
+**Last updated:** 2026-08-28 21:51:28 UTC
+**Last commit:** `668e606`
 
 ## Deployed Pages
 
@@ -57,6 +57,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 
 ### `/strategy/`
 
+- `/strategy/crystal-laboratory` — crystal-laboratory.md
 - `/strategy/dawn-academy/experts` — experts.md
 - `/strategy/dawn-academy/` — index.md
 - `/strategy/dawn-academy/resources` — resources.md
@@ -91,6 +92,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 - `/strategy/power-checklist` — power-checklist.md
 - `/strategy/power-priority` — power-priority.md
 - `/strategy/research` — research.md
+- `/strategy/wish-station` — wish-station.md
 
 ### `/troops/`
 
@@ -145,6 +147,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
             { text: 'Research (Technology)', link: '/strategy/research' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
+            { text: 'Crystal Laboratory', link: '/strategy/crystal-laboratory' },
+            { text: 'Wish Station', link: '/strategy/wish-station' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -281,11 +285,13 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 
     lastUpdatedText: 'Last updated',
   },
+})
 ```
 
 ## Recent Deployment History
 
 ```
+668e606 chore: regenerate MANIFEST.md [skip manifest]
 13cdaa0 Rebrand site to Waldo and Wilma's Knowledge Book
 db2fdc3 chore: regenerate MANIFEST.md [skip manifest]
 8cf55c8 Add Winter Siege event guide
@@ -295,5 +301,4 @@ f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Desi
 970461b Merge branch 'main' of github.com:greenwh/wos-knowledge
 c30cf46 Remove rank system section from New Member Orientation
 3fa5075 chore: regenerate MANIFEST.md [skip manifest]
-52d9f44 Merge remote main and regenerate MANIFEST.md
 ```
