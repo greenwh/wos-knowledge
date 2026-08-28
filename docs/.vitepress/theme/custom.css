@@ -141,7 +141,7 @@ h1 {
   }
 }
 
-/* Hub link buttons (actions 3–6) — smaller and color-coded */
+/* Hub link buttons (actions 3–7) — smaller and color-coded */
 .VPHero .actions .action:nth-child(n+3) .VPButton {
   font-size: 0.72rem;
   padding: 3px 12px;
@@ -179,6 +179,14 @@ h1 {
 }
 .VPHero .actions .action:nth-child(6) .VPButton:hover {
   background-color: rgba(201, 161, 92, 0.10);
+}
+
+.VPHero .actions .action:nth-child(7) .VPButton {
+  border-color: var(--bb-callout-tip);
+  color: var(--bb-callout-tip);
+}
+.VPHero .actions .action:nth-child(7) .VPButton:hover {
+  background-color: var(--bb-callout-tip-bg);
 }
 
 /* Tighten table padding for mobile */
