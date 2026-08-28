@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-28 22:01:33 UTC
-**Last commit:** `7d46b80`
+**Last updated:** 2026-08-28 22:07:48 UTC
+**Last commit:** `d73eca3`
 
 ## Deployed Pages
 
@@ -290,6 +290,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+d73eca3 Style the homepage Server Timeline hero action to match the other hub buttons
+7172b69 chore: regenerate MANIFEST.md [skip manifest]
 7d46b80 Add Server Timeline link to homepage hero actions
 834f63d chore: regenerate MANIFEST.md [skip manifest]
 ca779a5 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
@@ -298,6 +300,4 @@ ca779a5 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages,
 db2fdc3 chore: regenerate MANIFEST.md [skip manifest]
 8cf55c8 Add Winter Siege event guide
 97d25fe chore: regenerate MANIFEST.md [skip manifest]
-f08ce8a fix(charms): correct Level 11 advice for young states; add cost-per-Design table
-475bd5a chore: regenerate MANIFEST.md [skip manifest]
 ```
