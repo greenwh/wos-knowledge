@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-28 22:07:48 UTC
-**Last commit:** `d73eca3`
+**Last updated:** 2026-09-20 02:34:15 UTC
+**Last commit:** `44cc769`
 
 ## Deployed Pages
 
@@ -290,6 +290,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+44cc769 Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
+c33c6dd chore: regenerate MANIFEST.md [skip manifest]
 d73eca3 Style the homepage Server Timeline hero action to match the other hub buttons
 7172b69 chore: regenerate MANIFEST.md [skip manifest]
 7d46b80 Add Server Timeline link to homepage hero actions
@@ -298,6 +300,4 @@ ca779a5 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages,
 668e606 chore: regenerate MANIFEST.md [skip manifest]
 13cdaa0 Rebrand site to Waldo and Wilma's Knowledge Book
 db2fdc3 chore: regenerate MANIFEST.md [skip manifest]
-8cf55c8 Add Winter Siege event guide
-97d25fe chore: regenerate MANIFEST.md [skip manifest]
 ```
