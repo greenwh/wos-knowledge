@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-21 12:49:06 UTC
-**Last commit:** `79f9f1e`
+**Last updated:** 2026-09-21 14:43:33 UTC
+**Last commit:** `5ae144d`
 
 ## Deployed Pages
 
@@ -304,6 +304,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+5ae144d Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
+d6a1672 chore: regenerate MANIFEST.md [skip manifest]
 79f9f1e Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 a3b32df chore: regenerate MANIFEST.md [skip manifest]
 dced065 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
@@ -312,6 +314,4 @@ eaa1a05 chore: regenerate MANIFEST.md [skip manifest]
 c33c6dd chore: regenerate MANIFEST.md [skip manifest]
 d73eca3 Style the homepage Server Timeline hero action to match the other hub buttons
 7172b69 chore: regenerate MANIFEST.md [skip manifest]
-7d46b80 Add Server Timeline link to homepage hero actions
-834f63d chore: regenerate MANIFEST.md [skip manifest]
 ```
