@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-18 17:50:39 UTC
-**Last commit:** `b0b5b99`
+**Last updated:** 2026-10-18 17:55:01 UTC
+**Last commit:** `420acfe`
 
 ## Deployed Pages
 
@@ -310,6 +310,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+420acfe Foundry Battle: exact building values from map; Central Transit Station is a single building
+cfba9bb chore: regenerate MANIFEST.md [skip manifest]
 b0b5b99 Gen 5 update: Hector, Norah, Gwen hero pages; Gareth promoted to available; Nora->Norah spelling fix
 7d3db03 chore: regenerate MANIFEST.md [skip manifest]
 b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
@@ -318,6 +320,4 @@ b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, pr
 d6a1672 chore: regenerate MANIFEST.md [skip manifest]
 79f9f1e Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 a3b32df chore: regenerate MANIFEST.md [skip manifest]
-dced065 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
-eaa1a05 chore: regenerate MANIFEST.md [skip manifest]
 ```
