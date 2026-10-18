@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-21 14:43:33 UTC
-**Last commit:** `5ae144d`
+**Last updated:** 2026-10-18 17:35:08 UTC
+**Last commit:** `b68a17c`
 
 ## Deployed Pages
 
@@ -304,6 +304,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
+41033b2 chore: regenerate MANIFEST.md [skip manifest]
 5ae144d Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
 d6a1672 chore: regenerate MANIFEST.md [skip manifest]
 79f9f1e Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
@@ -312,6 +314,4 @@ dced065 Replace generation labels with day+date anchors; add multi-track generat
 eaa1a05 chore: regenerate MANIFEST.md [skip manifest]
 44cc769 Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
 c33c6dd chore: regenerate MANIFEST.md [skip manifest]
-d73eca3 Style the homepage Server Timeline hero action to match the other hub buttons
-7172b69 chore: regenerate MANIFEST.md [skip manifest]
 ```
