@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-18 17:35:08 UTC
-**Last commit:** `b68a17c`
+**Last updated:** 2026-10-18 17:50:39 UTC
+**Last commit:** `b0b5b99`
 
 ## Deployed Pages
 
@@ -79,11 +79,14 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 - `/strategy/heroes/development-roadmap` — development-roadmap.md
 - `/strategy/heroes/flint` — flint.md
 - `/strategy/heroes/greg` — greg.md
+- `/strategy/heroes/gwen` — gwen.md
+- `/strategy/heroes/hector` — hector.md
 - `/strategy/heroes/` — index.md
 - `/strategy/heroes/logan` — logan.md
 - `/strategy/heroes/lynn` — lynn.md
 - `/strategy/heroes/mia` — mia.md
 - `/strategy/heroes/molly` — molly.md
+- `/strategy/heroes/norah` — norah.md
 - `/strategy/heroes/philly` — philly.md
 - `/strategy/heroes/reina` — reina.md
 - `/strategy/heroes/roster` — roster.md
@@ -186,6 +189,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
                 { text: 'Reina', link: '/strategy/heroes/reina' },
                 { text: 'Lynn', link: '/strategy/heroes/lynn' },
                 { text: 'Philly', link: '/strategy/heroes/philly' },
+                { text: 'Hector', link: '/strategy/heroes/hector' },
+                { text: 'Norah', link: '/strategy/heroes/norah' },
+                { text: 'Gwen', link: '/strategy/heroes/gwen' },
               ],
             },
             {
@@ -304,6 +310,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+b0b5b99 Gen 5 update: Hector, Norah, Gwen hero pages; Gareth promoted to available; Nora->Norah spelling fix
+7d3db03 chore: regenerate MANIFEST.md [skip manifest]
 b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
 41033b2 chore: regenerate MANIFEST.md [skip manifest]
 5ae144d Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
@@ -312,6 +320,4 @@ d6a1672 chore: regenerate MANIFEST.md [skip manifest]
 a3b32df chore: regenerate MANIFEST.md [skip manifest]
 dced065 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
 eaa1a05 chore: regenerate MANIFEST.md [skip manifest]
-44cc769 Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
-c33c6dd chore: regenerate MANIFEST.md [skip manifest]
 ```
