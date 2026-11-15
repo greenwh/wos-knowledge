@@ -150,6 +150,7 @@ export default defineConfig({
                 { text: 'Overview', link: '/strategy/dawn-academy/' },
                 { text: 'The Experts', link: '/strategy/dawn-academy/experts' },
                 { text: 'Trek Guide', link: '/strategy/dawn-academy/trek-guide' },
+                { text: 'Tundra Trek Choices', link: '/strategy/dawn-academy/tundra-trek-choices' },
                 { text: 'Resources', link: '/strategy/dawn-academy/resources' },
               ],
             },

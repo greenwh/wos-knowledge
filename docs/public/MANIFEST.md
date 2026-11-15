@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-18 17:55:01 UTC
-**Last commit:** `420acfe`
+**Last updated:** 2026-11-15 22:17:21 UTC
+**Last commit:** `dfe2b3c`
 
 ## Deployed Pages
 
@@ -63,6 +63,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 - `/strategy/dawn-academy/` — index.md
 - `/strategy/dawn-academy/resources` — resources.md
 - `/strategy/dawn-academy/trek-guide` — trek-guide.md
+- `/strategy/dawn-academy/tundra-trek-choices` — tundra-trek-choices.md
 - `/strategy/fire-crystal` — fire-crystal.md
 - `/strategy/furnace` — furnace.md
 - `/strategy/gear/ascension-empowerment` — ascension-empowerment.md
@@ -224,6 +225,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
                 { text: 'Overview', link: '/strategy/dawn-academy/' },
                 { text: 'The Experts', link: '/strategy/dawn-academy/experts' },
                 { text: 'Trek Guide', link: '/strategy/dawn-academy/trek-guide' },
+                { text: 'Tundra Trek Choices', link: '/strategy/dawn-academy/tundra-trek-choices' },
                 { text: 'Resources', link: '/strategy/dawn-academy/resources' },
               ],
             },
@@ -310,6 +312,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+dfe2b3c chore: regenerate MANIFEST.md [skip manifest]
 420acfe Foundry Battle: exact building values from map; Central Transit Station is a single building
 cfba9bb chore: regenerate MANIFEST.md [skip manifest]
 b0b5b99 Gen 5 update: Hector, Norah, Gwen hero pages; Gareth promoted to available; Nora->Norah spelling fix
@@ -319,5 +322,4 @@ b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, pr
 5ae144d Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
 d6a1672 chore: regenerate MANIFEST.md [skip manifest]
 79f9f1e Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
-a3b32df chore: regenerate MANIFEST.md [skip manifest]
 ```

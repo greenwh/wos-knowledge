@@ -94,6 +94,10 @@ When playing Tundra Trek manually, here's how to think about choices:
 
 You don't need to memorize encounter trees. Just pay attention to which Expert is featured and pick options that advance their storyline or boost their Affinity.
 
+::: tip Recorded choice rewards
+The [Tundra Trek Choices](/strategy/dawn-academy/tundra-trek-choices) page lists the reward recorded for each choice in known encounters. Search it for the button text before you pick.
+:::
+
 ## Common Mistakes
 
 1. **Letting Trek Supplies cap.** 100-cap means 60 supplies wasted across the day if you don't claim. Set a phone reminder for the 08:00 and 16:00 UTC claims.
@@ -118,6 +122,7 @@ You don't need to memorize encounter trees. Just pay attention to which Expert i
 ## Related Guides
 
 - [Dawn Academy Hub](/strategy/dawn-academy/) — system overview
+- [Tundra Trek Choices](/strategy/dawn-academy/tundra-trek-choices) — reward recorded for each encounter choice
 - [Experts](/strategy/dawn-academy/experts) — who to target
 - [Resources](/strategy/dawn-academy/resources) — what the Affinity items, Sigils, and Books are
 

@@ -8,6 +8,15 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## November 2026
+
+### Tundra Trek Choices
+
+- **New page:** [Tundra Trek Choices](/strategy/dawn-academy/tundra-trek-choices) in the Dawn Academy section. It lists 43 Tundra Trek encounters with the Books of Knowledge and Expert Sigils recorded for each choice, from first-hand play.
+- Rewards are Books of Knowledge, sometimes with Expert Sigils. Most encounters pay **50** Books on one choice and **30** on the other. A few pay 100, 200, or Sigils only.
+- Twenty choices are still untested and marked as such. The table will grow as they are recorded.
+- Linked from the [Trek Guide](/strategy/dawn-academy/trek-guide) and the [Dawn Academy Hub](/strategy/dawn-academy/).
+
 ## October 2026
 
 ### Generation 5: Hector, Norah, Gwen, and Gareth

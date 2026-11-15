@@ -13,6 +13,7 @@ The Dawn Academy is a city building that hosts **Experts** — special character
 
 - **[Experts](/strategy/dawn-academy/experts)** — all 9 Experts: roles, key skills, Sigil costs, and F2P priority order
 - **[Trek Guide](/strategy/dawn-academy/trek-guide)** — Tundra Trek vs. Frontier Trek mechanics, supply economy, and what NOT to auto
+- **[Tundra Trek Choices](/strategy/dawn-academy/tundra-trek-choices)** — the reward recorded for each Tundra Trek encounter choice
 - **[Resources](/strategy/dawn-academy/resources)** — Affinity gifts, Sigils, Books of Knowledge, Digits, Learning Duration explained
 
 ## How It Works
@@ -89,6 +90,7 @@ See the [Experts](/strategy/dawn-academy/experts) page for the recommended devel
 
 - [Experts](/strategy/dawn-academy/experts) — full breakdown of all 9 Experts
 - [Trek Guide](/strategy/dawn-academy/trek-guide) — how to actually run Tundra and Frontier Treks
+- [Tundra Trek Choices](/strategy/dawn-academy/tundra-trek-choices) — which choice pays more in each encounter
 - [Resources](/strategy/dawn-academy/resources) — Affinity, Sigils, Books of Knowledge explained
 - [Bear Trap](/events/bear-trap) — where Cyrille's bonuses pay off
 - [Arena](/strategy/heroes/) — where Holger pays off
