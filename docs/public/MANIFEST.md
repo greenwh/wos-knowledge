@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/wos-knowledge/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-11-15 22:17:21 UTC
-**Last commit:** `dfe2b3c`
+**Last updated:** 2026-11-15 22:17:40 UTC
+**Last commit:** `6a8b358`
 
 ## Deployed Pages
 
@@ -312,6 +312,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/wos-knowledge/main/docs/pu
 ## Recent Deployment History
 
 ```
+6a8b358 Add Tundra Trek Choices page to Dawn Academy
 dfe2b3c chore: regenerate MANIFEST.md [skip manifest]
 420acfe Foundry Battle: exact building values from map; Central Transit Station is a single building
 cfba9bb chore: regenerate MANIFEST.md [skip manifest]
@@ -321,5 +322,4 @@ b68a17c Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, pr
 41033b2 chore: regenerate MANIFEST.md [skip manifest]
 5ae144d Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
 d6a1672 chore: regenerate MANIFEST.md [skip manifest]
-79f9f1e Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 ```
